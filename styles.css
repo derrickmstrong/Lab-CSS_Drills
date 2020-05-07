@@ -1,111 +1,109 @@
 body {
-    font-family: 'Poppins', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: lightgray;
+  font-family: 'Poppins', Cambria, Cochin, Georgia, Times, 'Times New Roman',
+    serif;
+  background-color: lightgray;
 }
 
 h1 {
-    color: #272993;
+  color: #272993;
 }
 
-h2, p, .readme-wrapper {
-    text-align: center;
+h2,
+p,
+.readme-wrapper {
+  text-align: center;
 }
 
 ul {
-    /* list-style: none;
+  /* list-style: none;
     font-weight: bold;
     line-height: 2rem; */
-    color: #948;
+  color: #948;
 }
 
 a {
-    text-decoration: none;
-    color: #4c9afa;
+  text-decoration: none;
+  color: #4c9afa;
 }
 
 a:hover {
-    cursor: pointer;
-    font-weight: bold;
-    color: orange;
+  cursor: pointer;
+  font-weight: bold;
+  color: orange;
 }
 
 .keyword {
-    color: purple;
-    font-weight: bold;
+  color: purple;
+  font-weight: bold;
 }
 
 .boxes {
-    display: block;
-    margin: 1rem;
-    padding: 1rem;
-    border: 2px solid #583902;
-    border-radius: 5px;
-    width: 30em;
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #583902;
+  border-radius: 5px;
+  width: 30em;
 }
 
 .icon {
-    width: 50px;
-    height: 50px;
-    border-radius: 50px;
-    background-color: goldenrod;
-    position: relative;
-    top: 60px;
-    left: 90px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background-color: goldenrod;
+  position: relative;
+  top: 60px;
+  left: 90px;
 }
 
 .original {
-    color: yellowgreen;
+  color: yellowgreen;
 }
 
 .additional {
-    color: turquoise;
+  color: turquoise;
 }
 
 .star {
-    color: #472;
+  color: #472;
 }
 
 .border-black {
-    border: 2px solid #000;
+  border: 2px solid #000;
 }
 
 #box1 {
-    background-color: aquamarine;
+  background-color: aquamarine;
 }
 #box2 {
-    background-color: orangered;
-    /* position: absolute;
+  background-color: orangered;
+  /* position: absolute;
     left: 600px;
     bottom: 12rem */
 }
 #box3 {
-    background-color: tan;
+  background-color: tan;
 }
 #box4 {
-    background-color: plum;
+  background-color: plum;
 }
 
 #show1 {
-    color: red;
-
+  color: red;
 }
 #show2 {
-    color: green;
-
+  color: green;
 }
 #show3 {
-    color: blue;
-
+  color: blue;
 }
 #show4 {
-    color: violet;
-
+  color: violet;
 }
 #show5 {
-    color: black;
-
+  color: black;
 }
 
 #wars {
-    color: #029;
+  color: #029;
 }
